@@ -151,6 +151,17 @@ dotnet ef database update --project TaskFlow.InfraStructure --startup-project Ta
 
 ---
 
+## 📮 Postman Collection
+
+The Postman collection is available inside the `/Postman` folder.
+
+### Files
+- `TaskFlow.postman_collection.json`
+- `TaskFlow.postman_environment.json`
+
+Import them into Postman to test the API endpoints.
+
+
 ## 🧪 Swagger Usage
 Swagger UI is enabled in development.
 

@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Postman/">
+    <File Path="../Project &amp; Task Mangment Api.postman_collection.json" />
+  </Folder>
   <Project Path="TaskFlow.API/TaskFlow.API.csproj" />
   <Project Path="TaskFlow.Application/TaskFlow.Application.csproj" />
   <Project Path="TaskFlow.InfraStructure/TaskFlow.InfraStructure.csproj" />
